@@ -38,3 +38,10 @@
 <p>
   Selected profile where I copied and paste \\HuskyTech\HRHome\%username%
 </p>
+
+<h1>HR Users created in the explorer file</h1>
+![image](https://github.com/user-attachments/assets/b4d6073c-2a13-48a8-9618-17ab0bb9977d)
+
+<p>
+  As you can see, I changed usernames and created other two folders. The new folders will have work documents store not in the old folders.
+</p>
