@@ -32,3 +32,9 @@
     <li>Create folders / append data</li>
   </ul>
 </p>
+
+<h1>Properties for Multiple Items</h1>
+![image](https://github.com/user-attachments/assets/08f3e038-c5d8-4614-9991-844dadebc00b)
+<p>
+  Selected profile where I copied and paste \\HuskyTech\HRHome\%username%
+</p>
