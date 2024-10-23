@@ -48,3 +48,10 @@
 <p>
   As you can see, I changed usernames and created other two folders. The new folders will have work documents store not in the old folders.
 </p>
+
+<h2>Reigstry Editor</h2>
+
+<p>
+ Opened Registry editor in Windows Run command by Regedit.
+  Added DC_HuskyTech as a network location showed in the register editor. 
+</p>
