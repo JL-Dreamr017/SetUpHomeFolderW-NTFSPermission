@@ -51,7 +51,28 @@
 
 <h2>Reigstry Editor</h2>
 
+![Screenshot from 2024-10-23 12-24-35](https://github.com/user-attachments/assets/2e72f85e-f928-43a8-b81b-07ab67075caf)
+
+
+
 <p>
  Opened Registry editor in Windows Run command by Regedit.
   Added DC_HuskyTech as a network location showed in the register editor. 
 </p>
+
+
+![Screenshot from 2024-10-23 12-25-46](https://github.com/user-attachments/assets/6ff9d823-b414-4535-b8ac-1b195bc59382)
+
+
+<h2>Added a Home folder directory path</h2>
+
+<p>
+  Added \\DC_HuskyTech\Personal\%username%
+</p>
+
+<h2>Windows Explorer file in This PC</h2>
+
+![Screenshot from 2024-10-23 12-38-10](https://github.com/user-attachments/assets/e80f9662-8e69-4303-ad18-3f89636ae643)
+
+<p>Showed the Personal network drive on the James' computer</p>
+
